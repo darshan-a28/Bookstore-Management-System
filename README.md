@@ -90,4 +90,5 @@ Bookstore-Management-System/
 
 Darshan A  
 [GitHub Profile](https://github.com/darshan-a28)
+[Linkedin Profile](www.linkedin.com/in/darshan2003)
 
