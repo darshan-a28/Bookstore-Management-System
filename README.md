@@ -88,7 +88,7 @@ Bookstore-Management-System/
 
 ## Author
 
-Darshan A  
+Darshan Athadakar  
 [GitHub Profile](https://github.com/darshan-a28)
 [Linkedin Profile](https://www.linkedin.com/in/darshan2003/)
 
